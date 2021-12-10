@@ -1,5 +1,4 @@
-//  This is a program that takes a user string input and then displays the ICAO words for the individual letters
-//
+//  This is a program that takes a user string input and then encodes them to a phonetic cipher mostly based on song lyrics from 2 songs
 //  Created by moongazer07
 //  Copyright none
 //

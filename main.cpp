@@ -1,7 +1,7 @@
 //  This is a program that takes a user string input and then displays the ICAO words for the individual letters
 //
-//  Created by Milan Patel on 10/23/18.
-//  Copyright © 2018 Milan Patel. All rights reserved.
+//  Created by moongazer07
+//  Copyright none
 //
 
 #include <iostream>
@@ -25,82 +25,82 @@ int main()
         switch(userinput[count])    // Switch statement to determine output for each character
         {
             case 'A' :
-            case 'a' : cout<<"Alpha ";
+            case 'a' : cout<<"always ";
                 break;
             case 'B' :
-            case 'b' : cout<<"Bravo ";
+            case 'b' : cout<<"be ";
                 break;
             case 'C' :
-            case 'c' : cout<<"Charlie ";
+            case 'c' : cout<<"changing ";
                 break;
             case 'D' :
-            case 'd' : cout<<"Delta ";
+            case 'd' : cout<<"deny ";
                 break;
             case 'E' :
-            case 'e' : cout<<"Echo ";
+            case 'e' : cout<<"everything ";
                 break;
             case 'F' :
-            case 'f' : cout<<"Foxtrot ";
+            case 'f' : cout<<"forever ";
                 break;
             case 'G' :
-            case 'g' : cout<<"Golf ";
+            case 'g' : cout<<"gonna ";
                 break;
             case 'H' :
-            case 'h' : cout<<"Hotel ";
+            case 'h' : cout<<"how ";
                 break;
             case 'I' :
-            case 'i' : cout<<"India ";
+            case 'i' : cout<<"Inside ";
                 break;
             case 'J' :
-            case 'j' : cout<<"Juliet ";
+            case 'j' : cout<<"just ";
                 break;
             case 'K' :
-            case 'k' : cout<<"Kilo ";
+            case 'k' : cout<<"know ";
                 break;
             case 'L' :
-            case 'l' : cout<<"Lima ";
+            case 'l' : cout<<"lie ";
                 break;
             case 'M' :
-            case 'm' : cout<<"Mike ";
+            case 'm' : cout<<"move ";
                 break;
             case 'N' :
-            case 'n' : cout<<"November ";
+            case 'n' : cout<<"Never ";
                 break;
             case 'O' :
-            case 'o' : cout<<"Oscar ";
+            case 'o' : cout<<"other ";
                 break;
             case 'P' :
-            case 'p' : cout<<"Papa ";
+            case 'p' : cout<<"play ";
                 break;
             case 'Q' :
-            case 'q' : cout<<"Quebec ";
+            case 'q' : cout<<"question ";
                 break;
             case 'R' :
-            case 'r' : cout<<"Romeo ";
+            case 'r' : cout<<"rest ";
                 break;
             case 'S' :
-            case 's' : cout<<"Sierra ";
+            case 's' : cout<<"So ";
                 break;
             case 'T' :
-            case 't' : cout<<"Tango ";
+            case 't' : cout<<"Together ";
                 break;
             case 'U' :
-            case 'u' : cout<<"Uniform ";
+            case 'u' : cout<<"understand ";
                 break;
             case 'V' :
-            case 'v' : cout<<"Victor ";
+            case 'v' : cout<<"venture ";
                 break;
             case 'W' :
-            case 'w' : cout<<"Whiskey ";
+            case 'w' : cout<<"We're ";
                 break;
             case 'X' :
-            case 'x' : cout<<"X-ray ";
+            case 'x' : cout<<"xternal ";
                 break;
             case 'Y' :
-            case 'y' : cout<<"Yankee ";
+            case 'y' : cout<<"you ";
                 break;
             case 'Z' :
-            case 'z' : cout<<"Zulu ";
+            case 'z' : cout<<"zink ";
                 break;
         }
         
